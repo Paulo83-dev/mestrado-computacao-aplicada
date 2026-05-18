@@ -1,0 +1,47 @@
+# === Python e Ambientes Virtuais ===
+.venv/
+venv/
+env/
+ENV/
+bin/
+lib/
+share/
+pyvenv.cfg
+pip-selfcheck.json
+
+# === Caches do Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Jupyter Notebook Checkpoints ===
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# === IDEs e Editores de Código ===
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+# === Arquivos de Sistema ===
+.DS_Store
+Thumbs.db
+
+# === Arquivos Auxiliares do Agente Gemini / Antigravity ===
+skills/
+GEMINI.md
+
+# === Scripts de Automação dos Agentes (Locais) ===
+machine-learning/add_code_comments.py
+machine-learning/add_markdowns.py
+machine-learning/add_markdowns2.py
+machine-learning/apply_all.py
+machine-learning/clean_notebook.py
+
+# === Arquivo de Estudos Ignorado (.md) ===
+machine-learning/estudo_aula01a_regression.md
