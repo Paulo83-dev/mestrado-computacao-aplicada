@@ -1,6 +1,6 @@
 # 🎓 Mestrado em Computação Aplicada
 
-Repositório central com todos os estudos, notas de aula, exercícios e projetos desenvolvidos durante o programa de **Mestrado em Computação Aplicada** da UTFPR.
+Repositório central com todos os estudos, notas de aula, exercícios e projetos desenvolvidos durante o programa de **Mestrado em Computação Aplicada** do IFES.
 
 Este é um espaço de aprendizado contínuo focado em **Machine Learning, Data Science e Computação Aplicada**.
 
